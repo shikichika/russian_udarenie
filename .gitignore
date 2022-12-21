@@ -1,3 +1,6 @@
 build/
 russian_udarenie.egg-info/
 russian_udarenie/__pycache__/
+
+ 
+.DS_Store
