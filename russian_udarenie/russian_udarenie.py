@@ -7,8 +7,8 @@ from natasha import (
     Doc
 )
 
-with open (file="/wordforms.dat", mode='rb') as f:
-        wordforms = pickle.loads(f.read())
+with open (file="russian_udarenie/wordforms.dat", mode='rb') as f:
+    wordforms = pickle.loads(f.read())
 
 
 
